@@ -1,8 +1,8 @@
 # index.html
-<DOCTYPE html>
+<!DOCTYPE html>
 <html lang="vi">
   <head>
-    <title> Page title </title>
+    <title> Page Title </title>
     <meta charset="UTF-8">
   </head>
   <body>
